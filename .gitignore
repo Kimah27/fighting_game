@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Large asset files
+Content/ParagonGideon/*
+Content/ParagonPhase/*
+Content/KiteDemo/*
+Content/Lighting/*
+Content/ParagonProps/*
+Content/SampleMap/*

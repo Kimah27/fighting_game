@@ -1,0 +1,29 @@
+-- Flinch/seizure animation cancel
+-- Change/remove block animation
+-- Remove ground dash
+-- Airdash into aerial attack anims
+-- Standing into crouching attack anims (vice-versa)
+-- Look at hurricane kick cancel
+
+
+- Round/Match end
+- Controllers working in menu
+- Round timer
+
+-5A p_LowKick_R_2
+-5B m_MidKick_L_2
+-5C KickUppercut
+-2A crouch_p_Jab_L
+-2B crouch_p_LowKick_L
+-2C crouch_m_LowKickRound_R
+-jA JumpPunch
+-jB JumpKick
+-jC Liu Kang
+
+sHit
+cHit
+sBlock
+cBlock
+
+juggle
+knock
